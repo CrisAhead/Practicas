@@ -1,0 +1,5 @@
+Historia,False
+Lengua,True
+Economía,False
+Música,True
+Math,False
